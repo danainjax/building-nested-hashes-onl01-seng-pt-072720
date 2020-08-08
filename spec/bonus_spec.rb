@@ -7,5 +7,5 @@
  #   expect(bonus[:montague][:hero][:status]).to eq("dead")
 #    expect(bonus[:capulet][:heroine][:status]).to eq("dead")
     
-  end
-end
+#  end
+#end
